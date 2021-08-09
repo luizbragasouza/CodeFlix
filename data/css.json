@@ -1,0 +1,50 @@
+{
+  "totalVideos": 44325,
+  "videos": [
+    {
+      "id": 1,
+      "nome": "Rocketseat",
+      "title": "Desvendando o CSS Grid na prática | Mayk Brito",
+      "description": "Fala dev, beeleza? 💜 Se você está chegando agora no mundo do desenvolvimento web, você ainda não teve muitos problemas com design de layout. Ou teve?",
+      "image": "/img/css/1.jpg",
+      "imagemini": "/img/css/1-mini.jpg",
+      "url": "https://www.youtube.com/embed/HN1UjzRSdBk"
+    },
+    {
+      "id": 2,
+      "nome": "Danki Code",
+      "title": "APRENDA CSS EM 10 MINUTOS",
+      "description": "HTML and CSS are essential skills to have for a career in web development. In this course we will cover both languages from the scratch and by the end of the course you ",
+      "image": "/img/css/2.jpg",
+      "imagemini": "/img/css/2-mini.jpg",
+      "url": "https://www.youtube.com/embed/lsxBlQWNdUQ"
+    },
+    {
+      "id": 3,
+      "nome": "Código Fonte TV",
+      "title": "CSS (Cascading Style Sheets) // Dicionário do Programador",
+      "description": "Chegou a vez da CSS!!! Misturamos nesse vídeo a história dela com a própria evolução do desenvolvimento web (e que mistura legal que ficou).",
+      "image": "/img/css/3.jpg",
+      "imagemini": "/img/css/3-mini.jpg",
+      "url": "https://www.youtube.com/embed/229xfk3EEM8"
+    },
+    {
+      "id": 4,
+      "nome": "Attekita Dev",
+      "title": "5 Projetos HTML + CSS para INICIANTES (Frontend)",
+      "description": "Saber HTML e CSS é o básico para qualquer desenvolvedor frontend, não é mesmo? Pensando nisso, especialmente para você que quer evoluir suas habilidades, separei uma lista de 10 projetos para praticar HTML e CSS, são ótimas ideias que vão te ajudar a se desenvolver! E ai?",
+      "image": "/img/css/4.jpg",
+      "imagemini": "/img/css/4-mini.jpg",
+      "url": "https://www.youtube.com/embed/cudOY_pI2Fo"
+    },
+    {
+      "id": 5,
+      "nome": "Rafaella Ballerini",
+      "title": "FORMULÁRIOS COM HTML e CSS!",
+      "description": "No video de hoje eu mostro pra vocês como é simples e rápido montar uma página web de formulário apenas com HTML e CSS! ",
+      "image": "/img/css/5.jpg",
+      "imagemini": "/img/css/5-mini.jpg",
+      "url": "https://www.youtube.com/embed/wwqOJ2o84S4"
+    }
+  ]
+}

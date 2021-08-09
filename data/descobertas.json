@@ -1,0 +1,50 @@
+{
+  "totalVideos": 38571,
+  "videos": [
+    {
+      "id": 1,
+      "nome": "Curso em Vídeo",
+      "title": "O que o JavaScript é capaz de fazer? - Curso JavaScript #01",
+      "description": "Você sabe para que serve a linguagem JavaScript / ECMAScript? Sabe a diferença entre um cliente e um servidor para a Internet? Sabe para que servem as tecnologias HTML5, CSS3 e JavaScript? Consegue citar 4 sites que utilizam a linguagem JavaScript nos seus códigos? ",
+      "image": "/img/javascript/1.jpg",
+      "imagemini": "/img/javascript/1-mini.jpg",
+      "url": "https://www.youtube.com/embed/Ptbk2af68e8"
+    },
+    {
+      "id": 2,
+      "nome": "Dev Aprender",
+      "title": "Curso Javascript Completo 2020 [Iniciantes] + 14 Mini-Projetos",
+      "description": "Nesse Curso Javascript 2020 estarei te ensinando todas as habilidades essenciais para começar a pensar como um programador e desenvolver sua lógica de programação. Curso Javascript Completo 2020 Completo",
+      "image": "/img/javascript/2.jpg",
+      "imagemini": "/img/javascript/2-mini.jpg",
+      "url": "https://www.youtube.com/embed/i6Oi-YtXnAU"
+    },
+    {
+      "id": 4,
+      "nome": "Hostinger Brasil",
+      "title": "Como Criar um Site HTML 2021 - Passo a Passo Fácil",
+      "description": "Aprenda agora como criar um site HTML com esse passo a passo simples.",
+      "image": "/img/html/4.jpg",
+      "imagemini": "/img/html/4-mini.jpg",
+      "url": "https://www.youtube.com/embed/Z23J9ASGrgc"
+    },
+    {
+      "id": 5,
+      "nome": "Rocketseat",
+      "title": "7 Tags HTML que Você Precisa Conhecer | Code/Drops #58",
+      "description": "🔗 Links ** códigos apresentados no vídeo ** https://gist.github.com/maykbrito/efa...",
+      "image": "/img/html/5.jpg",
+      "imagemini": "/img/html/5-mini.jpg",
+      "url": "https://www.youtube.com/embed/7pqp3IKyC0s"
+    },
+    {
+      "id": 4,
+      "nome": "Attekita Dev",
+      "title": "5 Projetos HTML + CSS para INICIANTES (Frontend)",
+      "description": "Saber HTML e CSS é o básico para qualquer desenvolvedor frontend, não é mesmo? Pensando nisso, especialmente para você que quer evoluir suas habilidades, separei uma lista de 10 projetos para praticar HTML e CSS, são ótimas ideias que vão te ajudar a se desenvolver! E ai?",
+      "image": "/img/css/4.jpg",
+      "imagemini": "/img/css/4-mini.jpg",
+      "url": "https://www.youtube.com/embed/cudOY_pI2Fo"
+    }
+  ]
+}

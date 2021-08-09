@@ -1,0 +1,50 @@
+{
+  "totalVideos": 472766,
+  "videos": [
+    {
+      "id": 4,
+      "nome": "Hostinger Brasil",
+      "title": "Como Criar um Site HTML 2021 - Passo a Passo Fácil",
+      "description": "Aprenda agora como criar um site HTML com esse passo a passo simples.",
+      "image": "/img/html/4.jpg",
+      "imagemini": "/img/html/4-mini.jpg",
+      "url": "https://www.youtube.com/embed/Z23J9ASGrgc"
+    },
+    {
+      "id": 2,
+      "nome": "freeCodeCamp.org",
+      "title": "Learn HTML5 and CSS3 From Scratch - Full Course",
+      "description": "HTML and CSS are essential skills to have for a career in web development. In this course we will cover both languages from the scratch and by the end of the course you ",
+      "image": "/img/html/2.jpg",
+      "imagemini": "/img/html/2-mini.jpg",
+      "url": "https://www.youtube.com/embed/mU6anWqZJcc"
+    },
+    {
+      "id": 3,
+      "nome": "Curso em Vídeo",
+      "title": "Começa aqui o novo @Curso em Vídeo de HTML5 e CSS3",
+      "description": "O Curso de HTML5 e CSS3 vai ensinar a criar sites usando a linguagem de marcação hipertexto (HTML) e  folhas de estilo em cascata (CSS), todas em suas versões mais recentes.",
+      "image": "/img/html/3.jpg",
+      "imagemini": "/img/html/3-mini.jpg",
+      "url": "https://www.youtube.com/embed/Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n"
+    },
+    {
+      "id": 1,
+      "nome": "Curso em Vídeo",
+      "title": "Curso de HTML5 - 00 - Site Completo - by Gustavo Guanabara",
+      "description": "HTML5 é uma linguagem de marcação hipertexto utilizada para criar sites. A versão 5 da linguagem foi homologada e lançada a partir de 2009, mas só ganhou mercado no final de 2012 com o surgimento dos grandes navegadores compatíveis.",
+      "image": "/img/html/1.jpg",
+      "imagemini": "/img/html/1-mini.jpg",
+      "url": "https://www.youtube.com/embed/epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o"
+    },
+    {
+      "id": 5,
+      "nome": "Rocketseat",
+      "title": "7 Tags HTML que Você Precisa Conhecer | Code/Drops #58",
+      "description": "🔗 Links ** códigos apresentados no vídeo ** https://gist.github.com/maykbrito/efa...",
+      "image": "/img/html/5.jpg",
+      "imagemini": "/img/html/5-mini.jpg",
+      "url": "https://www.youtube.com/embed/7pqp3IKyC0s"
+    }
+  ]
+}

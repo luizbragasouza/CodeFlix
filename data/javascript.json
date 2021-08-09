@@ -1,0 +1,68 @@
+{
+  "totalVideos": 38571,
+  "videos": [
+    {
+      "id": 1,
+      "nome": "Curso em Vídeo",
+      "title": "O que o JavaScript é capaz de fazer? - Curso JavaScript #01",
+      "description": "Você sabe para que serve a linguagem JavaScript / ECMAScript? Sabe a diferença entre um cliente e um servidor para a Internet? Sabe para que servem as tecnologias HTML5, CSS3 e JavaScript? Consegue citar 4 sites que utilizam a linguagem JavaScript nos seus códigos? ",
+      "image": "/img/javascript/1.jpg",
+      "imagemini": "/img/javascript/1-mini.jpg",
+      "url": "https://www.youtube.com/embed/Ptbk2af68e8"
+    },
+    {
+      "id": 2,
+      "nome": "Dev Aprender",
+      "title": "Curso Javascript Completo 2020 [Iniciantes] + 14 Mini-Projetos",
+      "description": "Nesse Curso Javascript 2020 estarei te ensinando todas as habilidades essenciais para começar a pensar como um programador e desenvolver sua lógica de programação. Curso Javascript Completo 2020 Completo",
+      "image": "/img/javascript/2.jpg",
+      "imagemini": "/img/javascript/2-mini.jpg",
+      "url": "https://www.youtube.com/embed/i6Oi-YtXnAU"
+    },
+    {
+      "id": 3,
+      "nome": "Código Fonte TV",
+      "title": "Programamos um GAME com JavaScript Puro em 28 minutos // Mão no Código #10",
+      "description": "Será que dá para programar um jogo com javascript puro em apenas 28 minutos e sem cortes? Não percaaaaaaaaammmmmm! Se você tiver algum sugestão para melhoria do jogo, não se acanhe você é bem vindo para enviar Pull Requests no projeto do jogo no GitHub!",
+      "image": "/img/javascript/3.jpg",
+      "imagemini": "/img/javascript/3-mini.jpg",
+      "url": "https://www.youtube.com/embed/M258B1b_pMs&t=73s"
+    },
+    {
+      "id": 4,
+      "nome": "Programador BR",
+      "title": "3 projetos de nível iniciante que geram até $3000 por Mês",
+      "description": "E ae pessoal. Nesse vídeo eu mostro 3 projetos simples, bem simples mesmo, que podem gerar até 3 mil dólares por mês. O legal é que qualquer iniciante pode fazer, e não precisa sabe nada de Backend.",
+      "image": "/img/javascript/4.jpg",
+      "imagemini": "/img/javascript/4-mini.jpg",
+      "url": "https://www.youtube.com/embed/n3tMEOw9KGY"
+    },
+    {
+      "id": 5,
+      "nome": "serfrontend",
+      "title": "Lógica de Programação com JS: Introdução e Pré-requisitos",
+      "description": "Está é a primeira aula do curso de Lógica de Programação com Javascript. O que é lógica de programação e para que devemos estudá-la? Porque Javascript?",
+      "image": "/img/javascript/5.jpg",
+      "imagemini": "/img/javascript/5-mini.jpg",
+      "url": "https://www.youtube.com/embed/lxb567HEn8k&list=PL1dUY2RYa2RidB3B134ywckDyf-FOwbv7"
+    },
+    {
+      "id": 6,
+      "nome": "Danki Code",
+      "title": "APRENDA JAVASCRIPT EM 10 MINUTOS",
+      "description": "Redes Sociais: https://instagram.com/guigrillo13;  https://facebook.com/dankicode.",
+      "image": "/img/javascript/6.jpg",
+      "imagemini": "/img/javascript/6-mini.jpg",
+      "url": "https://www.youtube.com/embed/RvcRxEeJqi8"
+    },
+    {
+      "id": 7,
+      "nome": "Attekita Dev",
+      "title": "Como aprender JAVASCRIPT, para iniciantes! ",
+      "description": "Você está pensando em entrar nesse mercado de tecnologia, aprender a programar, e espera encontrar uma boa linguagem para dar os primeiros passos? Javascript com certeza é uma ótima opção, uma linguagem moderna e poderosa e que hoje em dia você consegue utilizar...",
+      "image": "/img/javascript/7.jpg",
+      "imagemini": "/img/javascript/7-mini.jpg",
+      "url": "https://www.youtube.com/embed/KWntxkf25nA"
+    }
+  ]
+}
